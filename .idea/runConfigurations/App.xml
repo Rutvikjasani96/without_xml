@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="App" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="com.without_xml.App" />
+    <module name="without_xml" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
